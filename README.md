@@ -13,6 +13,7 @@ Projeto  desenvolvido durante o programa de educação ONE - Oracle Next Educati
 
 ### Funcionalidades do projeto
  Sorteio aleatório automatizado sem influência humana. 
+ [Click aqui para acessar.](https://challenge-amigo-secreto-hazel.vercel.app/)
 
 ### Tecnologias
 Embora o projeto tenha as linguagens HTML, CSS e JavaSript, apenas a linguagem Javascript foi avaliada e desenvolvida do zero. Todos outros elementos e linguagens fazem parte de um modelo já pronto. 
